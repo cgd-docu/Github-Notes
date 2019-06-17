@@ -1,5 +1,10 @@
 # Git Guides
 
+## Table of contents
+
+- [Git Configuration](#git-configuration)
+- [Status](#status)
+
 ### Git Configuration ( User and Email )
 
 ```text
