@@ -8,7 +8,9 @@
 
 ### Copy Repository to Local Computer
 
-- git clone < git repo >
+```text
+$ git clone < git repo >
+```
 
 ### Git Commit
 
