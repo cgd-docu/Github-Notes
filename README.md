@@ -1,2 +1,11 @@
-# Github-Notes
-All of the personal github notes
+# Github Tutorial
+
+### Git Configuration ( User and Email )
+
+- git config --global user.name "Christian D"
+- git config --global user.email "chrisgen@gmail.com"
+- to check the git config use : - git config --global --list
+
+### Copy Repository to Local Computer
+
+- git clone < git repo >
