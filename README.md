@@ -18,4 +18,6 @@
 
 ### Git Push to Remote Repo
 
-- git push origin master
+```text
+git push origin master
+```
