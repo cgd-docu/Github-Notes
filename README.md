@@ -6,6 +6,7 @@
 - [Copy Repository to Local Computer](#user-content-copy-repository-to-local-computer)
 - [Git Commit](#user-content-git-commit)
 - [Git Push to Remote Repo](#user-content-git-push-to-remote-repo)
+- [Git MacOS Updates Issue](#user-content-git-macos-updates-issue)
 
 ### Git Configuration ( User and Email )
 
