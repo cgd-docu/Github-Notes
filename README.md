@@ -3,7 +3,9 @@
 ## Table of contents
 
 - [Git Configuration](#user-content-git-configuration--user-and-email-)
-- [Status](#user-content-copy-repository-to-local-computer)
+- [Copy Repository to Local Computer](#user-content-copy-repository-to-local-computer)
+- [Git Commit](#user-content-git-commit)
+- [Git Push to Remote Repo](#user-content-git-push-to-remote-repo)
 
 ### Git Configuration ( User and Email )
 
