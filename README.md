@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-- [Git Configuration](#git-configuration)
-- [Status](#status)
+- [Git Configuration](#user-content-git-configuration--user-and-email-)
+- [Status](#user-content-copy-repository-to-local-computer)
 
 ### Git Configuration ( User and Email )
 
