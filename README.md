@@ -12,9 +12,11 @@
 
 ### Git Commit
 
-- git add .
-- git add < name.txt >
-- git commit -m "< commit desc >"
+```text
+git add .
+git add < name.txt >
+git commit -m "< commit desc >"
+```
 
 ### Git Push to Remote Repo
 
