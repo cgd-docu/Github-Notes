@@ -40,3 +40,11 @@ $ git status
 ```text
 $ git push origin master
 ```
+
+### Git MacOS Updates Issue
+
+solution:
+
+```text
+$ sudo xcode-select --install
+```
