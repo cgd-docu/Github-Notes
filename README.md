@@ -7,7 +7,7 @@ $ git config --global user.name "Christian D"
 $ git config --global user.email "chrisgen@gmail.com"
 ```
 
-to check the git config use :
+to check the git config, use :
 
 ```text
 $ git config --global --list
