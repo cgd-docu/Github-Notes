@@ -1,4 +1,4 @@
-# Github Tutorial
+# Git Guides
 
 ### Git Configuration ( User and Email )
 
