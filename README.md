@@ -9,3 +9,9 @@
 ### Copy Repository to Local Computer
 
 - git clone < git repo >
+
+### Git Commit
+
+- git add .
+- git add < name.txt >
+- git commit -m "< commit desc >"
