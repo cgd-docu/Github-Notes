@@ -1,4 +1,4 @@
-# Git Guides
+# Git Basic Workflow with GitHub
 
 ## Table of contents
 
@@ -32,6 +32,7 @@ $ git clone < git repo >
 $ git add .
 $ git add < name.txt >
 $ git commit -m "< commit desc >"
+$ git status
 ```
 
 ### Git Push to Remote Repo
